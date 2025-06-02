@@ -34,7 +34,7 @@ The GISA Information Security Maturity Model is a practical framework to assess,
 - PDP Act compliance requirements
 
  📡 Digital Collaboration
-GISA leverages the following platforms for collaboration:
+ GISA leverages the following platforms for collaboration:
 - Rocket.Chat – Internal communication
 - GitHub / GitLab – Document version control and collaboration
 - LMS / Notion – Cyber hygiene training and WG activities
